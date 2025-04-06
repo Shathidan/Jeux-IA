@@ -27,7 +27,7 @@ Un **jeu d'action-aventure solo en monde ouvert** qui mélange l'intensité des 
 
 Logo générer avec Leonardo IA 
 
-![Logo](Flux_Dev_Un_logo_stylis_et_percutant_pour_un_jeu_dactionaventu_0.jpeg)
+![Logo](images/Flux_Dev_Un_logo_stylis_et_percutant_pour_un_jeu_dactionaventu_0.jpeg)
 
 ## 3. Génie Artistique
 
@@ -57,9 +57,9 @@ Le monde du jeu doit être **gritty, réaliste et immersif**, capturant l’esse
 - **Mise en scène cinématographique**, avec des plans dynamiques et un éclairage dramatique.  
  
 
-![Logo](openart-image_UtY3VQzx_1742914989925_raw.jpg)
+![Logo](images/openart-image_UtY3VQzx_1742914989925_raw.jpg)
 
-![Logo](289328db-f824-46db-9c57-0496dfc2ac9c.png)
+![Logo](images/289328db-f824-46db-9c57-0496dfc2ac9c.png)
 
 ## 4. Scénario et narration 
 
@@ -115,6 +115,7 @@ Les personnages doivent être **réalistes et détaillés**, avec des proportion
 - **Éclairage dynamique** : effets de lumière réalistes sur les visages et objets.  
 - **Animations naturelles et fluides** : mouvements réalistes en infiltration et combat.  
 
-![Logo](image.png)
+![Logo](images/image.png)
+
 
 
